@@ -1,7 +1,8 @@
-//project : axi_fpgaware_ver_id
-//author  : siarhei baldzenka
-//date    : 21.01.2026
-//e-mail  : venera.electronica@gmail.com
+// project     : axi_fpgaware_ver_id
+// date        : 21.01.2026
+// author      : siarhei baldzenka
+// e-mail      : sbaldzenka@proton.me
+// description : https://github.com/sbaldzenka/axi_fpgaware_ver_id
 
 `timescale 1ns/100ps
 
